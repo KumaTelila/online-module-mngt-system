@@ -1,0 +1,21 @@
+<!-- Navbar -->
+<nav class="main-header navbar navbar-expand navbar-blue navbar-light">
+            <!-- Left navbar links -->
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" data-widget="pushmenu" href="#" role="button"><i class="fas fa-bars"></i></a>
+                </li>
+                <li class="nav-item">
+                   <h1>Online Module Management System</h1>
+                </li>
+            </ul>
+                 <!-- Right navbar links -->
+                 <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="./logout.php">
+                        Logout
+                    </a>
+                </li>
+            </ul>
+        </nav>
+        <!-- Navbar -->
